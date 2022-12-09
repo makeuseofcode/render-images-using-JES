@@ -13,7 +13,7 @@ Examples of basic image functions you can use in JES
 ## To Run
 
 * Open the JES software on your computer
-* Go to File > Open Program > 
+* Go to File > Open Program 
 * Select the .py file inside the renderImages folder
 * Click on Load Program
 * Run any function by calling it in the command line area
